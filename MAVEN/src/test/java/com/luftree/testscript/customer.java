@@ -14,6 +14,7 @@ public class customer {
         //WebDriver driver = new ChromeDriver();
         Reporter.log("create customer",true);
 System.out.println("hello");
+System.out.println("welcome");
 	System.out.println("world");
 }
 }
