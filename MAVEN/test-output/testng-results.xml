@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[create customer]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2025-03-12T11:13:16 IST" name="Suite" finished-at="2025-03-12T11:13:16 IST" duration-ms="137">
+    <groups>
+    </groups>
+    <test started-at="2025-03-12T11:13:16 IST" name="Test" finished-at="2025-03-12T11:13:16 IST" duration-ms="137">
+      <class name="com.luftree.testscript.customer">
+        <test-method signature="testReporterLog()[pri:0, instance:com.luftree.testscript.customer@68999068]" started-at="2025-03-12T11:13:16 IST" name="testReporterLog" finished-at="2025-03-12T11:13:16 IST" duration-ms="33" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[create customer]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testReporterLog -->
+      </class> <!-- com.luftree.testscript.customer -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
