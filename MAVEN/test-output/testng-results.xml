@@ -5,12 +5,12 @@
       <![CDATA[create customer]]>
     </line>
   </reporter-output>
-  <suite started-at="2025-03-12T11:13:16 IST" name="Suite" finished-at="2025-03-12T11:13:16 IST" duration-ms="137">
+  <suite started-at="2025-03-14T00:03:32 IST" name="Default suite" finished-at="2025-03-14T00:03:32 IST" duration-ms="164">
     <groups>
     </groups>
-    <test started-at="2025-03-12T11:13:16 IST" name="Test" finished-at="2025-03-12T11:13:16 IST" duration-ms="137">
+    <test started-at="2025-03-14T00:03:32 IST" name="Default test" finished-at="2025-03-14T00:03:32 IST" duration-ms="164">
       <class name="com.luftree.testscript.customer">
-        <test-method signature="testReporterLog()[pri:0, instance:com.luftree.testscript.customer@68999068]" started-at="2025-03-12T11:13:16 IST" name="testReporterLog" finished-at="2025-03-12T11:13:16 IST" duration-ms="33" status="PASS">
+        <test-method signature="testReporterLog()[pri:0, instance:com.luftree.testscript.customer@68999068]" started-at="2025-03-14T00:03:32 IST" name="testReporterLog" finished-at="2025-03-14T00:03:32 IST" duration-ms="33" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[create customer]]>
@@ -18,6 +18,6 @@
           </reporter-output>
         </test-method> <!-- testReporterLog -->
       </class> <!-- com.luftree.testscript.customer -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
