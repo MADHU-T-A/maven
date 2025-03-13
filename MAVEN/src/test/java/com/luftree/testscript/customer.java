@@ -5,8 +5,6 @@ import org.testng.Reporter;
 import org.testng.annotations.Test;
 
 public class customer {
-
-
     @Test
     public void testReporterLog() {
         // Set up the WebDriver (in this case, ChromeDriver)
@@ -16,5 +14,6 @@ public class customer {
 System.out.println("hello");
 System.out.println("welcome");
 	System.out.println("world");
+	System.out.println("hi bye");
 }
 }
